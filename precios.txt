@@ -1,2 +1,5 @@
 50,000$
 75,000$
+30,000$ - otro desarrollador
+25,000$ otro desarrollador
+110,000$ otro desarrollador
